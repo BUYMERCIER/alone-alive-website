@@ -26,7 +26,10 @@ require('include/header.php');
           </div>
           <div id="1" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
             <div class="panel-body">
-              Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+              MinoTaurus est le monstre principal du camp des minotaures.
+              
+              <img src="../img/Minotaurus.png" alt="MinoTaurus" style="width:width;height:height;"> 
+              MinoTaurus est une sorte de taureau sur deux pattes avec de longues cornes, il a une silhouette plutôt athlétique, en bref il ressemble au célèbre minotaure.
             </div>
           </div>
         </div>
@@ -40,7 +43,9 @@ require('include/header.php');
           </div>
           <div id="2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
             <div class="panel-body">
-              Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+             Le camp des minotaures contient 2 Taurus.
+             <img src="../img/Taurus.png" alt="Taurus" style="width:width;height:height;">
+             Taurus ressemble à MinoTaurus il s’agit aussi d’un taureau sur deux pattes, mais cette fois-ci, plus petit et bedonnant.
             </div>
           </div>
         </div>
@@ -54,7 +59,9 @@ require('include/header.php');
           </div>
           <div id="3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
             <div class="panel-body">
-              Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+            Le camp des Antagonistes contient 3 mob "The Antagonist".
+            <img src="../img/Antagonist.png" alt="Antagonist" style="width:width;height:height;">
+            The Antagonist ressemble à un joueur avec une peau noire, un masque et une épée blanche. The Antagonist , est posséder par des esprit malveillant qui détruise petit a petit son âme. Celle si  s’échappe lentement de son corps, créant un halo autour de lui. Cette caractéristique lui donne un aspect unique et le rend reconnaissable rapidement.  
             </div>
           </div>
         </div>
@@ -68,7 +75,9 @@ require('include/header.php');
           </div>
           <div id="4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
             <div class="panel-body">
-              Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+            Le Kanima n'a pas de camp. Il se balade dans les forets a la recherche d'adversaire.
+             <img src="../img/Kanima.png" alt="Kanima" style="width:width;height:height;">
+            Le Kanima est inspiré d’une créature surnaturelle qu’on retrouve dans le Bestiaire, il ressemble à un lézard humanoïde, il a des griffes très coupantes sur sa tête et sur la longueur de son dos.  
             </div>
           </div>
         </div>
