@@ -1,5 +1,6 @@
 <?php
 
+$title = "News";
 require('include/header.php');
 
 ?>

@@ -6,7 +6,7 @@ require('include/header.php');
 ?>
 
 <div class="container">
-  <ul class="nav nav-pills">
+  <ul class="nav nav-tabs">
     <li class="active"><a data-toggle="tab" href="#home">Nos monstres</a></li>
     <li><a data-toggle="tab" href="#menu1">Nos objets</a></li>
   </ul>
