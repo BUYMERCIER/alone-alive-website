@@ -46,14 +46,19 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href="#">News</a>
+                        <a href="news.php">News</a>
                     </li>
                     <li>
-                        <a href="#">YAJA</a>
+                        <a href="yaja.php">YAJA</a>
                     </li>
                     <li>
-                        <a href="#">Credits</a>
+                        <a href="credits.php">Credits</a>
                     </li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                  <li>
+                    <a href="wiki.php">Wiki</a>
+                  </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
