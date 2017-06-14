@@ -4,15 +4,6 @@ require('include/header.php');
 
 ?>
 
-<div class="main">
-  <div class="col-md-2"></div>
-  <div class="jumbotron col-md-8" style="border-radius: 15px; margin-top: 20px;">
-    <div class="container">
-      <img src="img/logo.png" class="img-responsive"/>
-      <br>
-
-<p style="white-space: pre-wrap;">
-
 <font size=16><b><u>YAJA! </u></b></font>
 
 YAJA! est un groupe de travail composé de Yossra "Tyrayosaure" Antari, Ambroise "Heliozz" Michel, James "Doomky" Richet et Antonin "Trusto" Bellanger.  Ce groupe fut fondé en novembre 2017 pour le projet que nous devions réalisés dans le cadres de nos études.
@@ -27,12 +18,6 @@ Nous avons formés un groupe ensemble car nous pensons que nos aptitudes sont co
 
 Pour le moment notre groupe a travaillé sur un seul projet: Alone and Alive . Il s'agit d'un jeu de survie en arène multijoueur toujours en développement.
 
-</p>
-
-        </div>
-      </div>
-      <div class="col-md-2"></div>
-    </div>
 
 <?php
 

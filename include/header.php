@@ -65,3 +65,12 @@
         </div>
         <!-- /.container -->
     </nav>
+
+    <div class="main">
+      <div class="col-md-2"></div>
+      <div class="jumbotron col-md-8" style="border-radius: 15px; margin-top: 20px;">
+        <div class="container">
+          <img src="img/logo.png" class="img-responsive"/>
+          <br>
+
+    <p style="white-space: pre-wrap;">
