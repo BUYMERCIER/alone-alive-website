@@ -73,4 +73,5 @@
           <img src="img/logo.png" class="img-responsive"/>
           <br>
 
+          <h3><span class="label label-danger"><?php echo $title; ?></span></h3>
     <p style="white-space: pre-wrap;">
