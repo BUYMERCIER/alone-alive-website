@@ -1,5 +1,6 @@
 <?php
 
+$title = "Alone&Alive";
 require('include/header.php');
 
 ?>

@@ -1,5 +1,6 @@
 <?php
 
+$title = "Wiki";
 require('include/header.php');
 
 ?>

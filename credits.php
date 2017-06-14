@@ -1,5 +1,6 @@
 <?php
 
+$title = "Credits";
 require('include/header.php');
 
 ?>

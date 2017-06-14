@@ -10,7 +10,7 @@
     <meta name="author" content="">
     <link rel="icon" href="img/icone.ico" type="image/ico">
 
-    <title>Alone&Alive</title>
+    <title><?php echo $title; ?></title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">

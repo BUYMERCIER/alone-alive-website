@@ -1,5 +1,6 @@
 <?php
 
+$title = "yaja";
 require('include/header.php');
 
 ?>
