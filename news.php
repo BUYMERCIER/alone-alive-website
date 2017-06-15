@@ -11,12 +11,10 @@ require('include/header.php');
     <span class="caret"></span>
   </button>
   <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-    <li><a href="#">Update(26/04)</a></li>
-    <li><a href="#">Update(9/05)</a></li>
-    <li><a href="#">Update(18/05)</a></li>
-    <li><a href="#">Update(14/06)</a></li>
-    <li role="separator" class="divider"></li>
-    <li><a href="#">Separated link</a></li>
+    <li><a href="LastNews.php">Update(26/04)</a></li>
+    <li><a href="LastNews.php">Update(9/05)</a></li>
+    <li><a href="LastNews.php">Update(18/05)</a></li>
+    <li><a href="LastNews.php">Update(14/06)</a></li>
   </ul>
 </div>
 
