@@ -7,7 +7,7 @@ require('include/header.php');
 
 -IA du dragon fonctionnel
 
--Design du menu amiliré
+-Design du menu amilioré
 
 -Version materiel disponible
 
