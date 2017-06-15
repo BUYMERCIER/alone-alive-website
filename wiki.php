@@ -26,9 +26,8 @@ require('include/header.php');
           </div>
           <div id="1" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
             <div class="panel-body">
-              MinoTaurus est le monstre principal du camp des minotaures.
-
               <img src="img/Minotaurus.png" alt="MinoTaurus" style="width:width;height:height;">
+              MinoTaurus est le monstre principal du camp des minotaures.
               MinoTaurus est une sorte de taureau sur deux pattes avec de longues cornes, il a une silhouette plutôt athlétique, en bref il ressemble au célèbre minotaure.
             </div>
           </div>
@@ -43,8 +42,8 @@ require('include/header.php');
           </div>
           <div id="2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
             <div class="panel-body">
-             Le camp des minotaures contient 2 Taurus.
              <img src="img/Taurus.png" alt="Taurus" style="width:width;height:height;">
+             Le camp des minotaures contient 2 Taurus.
              Taurus ressemble à MinoTaurus il s’agit aussi d’un taureau sur deux pattes, mais cette fois-ci, plus petit et bedonnant.
             </div>
           </div>
@@ -59,8 +58,8 @@ require('include/header.php');
           </div>
           <div id="3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
             <div class="panel-body">
+               <img src="img/Antagonist.png" alt="Antagonist" style="width:width;height:height;">
               Le camp des Antagonistes contient 3 mob "The Antagonist".
-              <img src="img/Antagonist.png" alt="Antagonist" style="width:width;height:height;">
               The Antagonist ressemble à un joueur avec une peau noire, un masque et une épée blanche. The Antagonist , est posséder par des esprit malveillant qui détruise petit a petit son âme. Celle si  s’échappe lentement de son corps, créant un halo autour de lui. Cette caractéristique lui donne un aspect unique et le rend reconnaissable rapidement.
             </div>
           </div>
@@ -75,8 +74,8 @@ require('include/header.php');
           </div>
           <div id="4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
             <div class="panel-body">
-              Le Kanima n'a pas de camp. Il se balade dans les forets a la recherche d'adversaire.
-             <img src="img/Kanima.png" alt="Kanima" style="width:width;height:height;">
+               <img src="img/Kanima.png" alt="Kanima" style="width:width;height:height;">
+              Le Kanima n'a pas de camp. Il se balade dans les forets a la recherche d'adversaire.            
              Le Kanima est inspiré d’une créature surnaturelle qu’on retrouve dans le Bestiaire, il ressemble à un lézard humanoïde, il a des griffes très coupantes sur sa tête et sur la longueur de son dos.
             </div>
           </div>
@@ -140,12 +139,12 @@ require('include/header.php');
              <div class="panel panel-default">
               <div class="panel-heading" role="tab" id="headingThree">
                 <h4 class="panel-title">
-                  <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                  <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseThree">
                     The crown of the Fallen King
                   </a>
                 </h4>
               </div>
-              <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+              <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
                 <div class="panel-body">
                   <img src="img/crown.png" alt="crown" style="width:width;height:height;">
                   "the crown of the fallen king" est un objet provenant d'un Roi qui a été décapité par les monstres présent maintenant sur la carte, nous pouvons toujours observer les vestiges de son château à l'horizon.
@@ -156,18 +155,16 @@ require('include/header.php');
              <div class="panel panel-default">
               <div class="panel-heading" role="tab" id="headingThree">
                 <h4 class="panel-title">
-                  <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                  <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseThree">
                     The FireStone
                   </a>
                 </h4>
               </div>
-              <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+              <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
                 <div class="panel-body">
                   <img src="img/firestone.png" alt="firestone" style="width:width;height:height;">
                   "the Firestone" est un objet qui donne 200 points de vie et 5 points de mobilité supplémentaires.
-
                   Il s'agit d'un objet particulièrement puissant puisqu'il inflige 5 dégats par seconde à toutes les entités à moins de 10 unités de distance.
-
                   Cet objet est présent de façon aléatoire sur la carte, vous pouvez savoir si un de vos adversaires possède des pouvoirs provenant de la FireStone car celle-ci laisse echapper des particules rouges.
                 </div>
               </div>
@@ -175,12 +172,12 @@ require('include/header.php');
              <div class="panel panel-default">
               <div class="panel-heading" role="tab" id="headingThree">
                 <h4 class="panel-title">
-                  <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                  <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseThree">
                     The saber of the Antagonist
                   </a>
                 </h4>
               </div>
-              <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+              <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
                 <div class="panel-body">
                   <img src="img/antagonist-saber.png" alt="antagonist-saber" style="width:width;height:height;">
                   Tout comme le "mask of the Antagonist",  la seule façon de récupérer cette arme est de tuer le monstre éponyme.
@@ -191,12 +188,12 @@ require('include/header.php');
             <div class="panel panel-default">
               <div class="panel-heading" role="tab" id="headingThree">
                 <h4 class="panel-title">
-                  <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                  <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="false" aria-controls="collapseThree">
                     The mask of the antagonist
                   </a>
                 </h4>
               </div>
-              <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+              <div id="collapseSeven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
                 <div class="panel-body">
                   <img src="img/antagonist-mask.png" alt="antagonist-mask" style="width:width;height:height;">
                   Vous pourrez accéder à cet objet si vous parvenez à tuer le monstre The Antagonist.
