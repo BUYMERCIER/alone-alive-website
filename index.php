@@ -6,21 +6,17 @@ require('include/header.php');
 ?>
 
 
-Mise à jour disponible ! (26/04/2017)
+Mise à jour disponible ! (14/6/17)
 
-- Carte plus grande et perfectionnée.
+-IA du dragon fonctionnel
 
-- Les objets sont effectifs
+-Design du menu amiliré
 
-- Première version du système de buff (bonus)
+-Version materiel disponible
 
-- Nouveau monstre ajouté + nouvelles textures sur tout les monstres déjà présent
+-Ajout des champs de forces
 
-- Animation des monstres ajoutés.
-
-- IA monstres ajoutés .
-
-- Site web disponible.
+-Correction graphique du personnage
 
 
 <?php
